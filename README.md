@@ -12,4 +12,5 @@ Website is hosted on Github pages.
 
 https://anuragm2002.github.io/landingpagerefactor/
 
+![LandingpagePreview](https://user-images.githubusercontent.com/125318681/221757715-569d3c6e-6056-479c-bf9a-6f45d29d051d.png)
 
