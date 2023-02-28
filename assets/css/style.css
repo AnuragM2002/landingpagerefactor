@@ -10,7 +10,7 @@ main {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-/* --------------------------------- */
+/* Styles the header and nav bar. */
 
 header {
     padding: 20px;
@@ -34,12 +34,12 @@ nav {
     font-size: 20px;
 }
 
+/* The nav bar is in the form of a list of links. */
+
 li { 
     margin-left: 25px; 
     display: inline-block;
 } 
-
-/* -------------------------------- */
 
 a {
     text-decoration: none;
@@ -50,6 +50,8 @@ p {
     font-size: 16px;
 }
 
+/* Adds main picture below the header */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -59,7 +61,7 @@ p {
     background-position: center;
 }
 
-/* ----------------------- */
+/* Changes pictures in the section element so that they are in the right position. */
 
 .float-left {
     float: left;
@@ -71,7 +73,7 @@ p {
     margin-left: 25px;
 }
 
-/* ------------------------ */
+/* Determines the size and formatting of the two largest sections of content. Section is the left content box, Aside is the right box. */
 
 section {
     width: 75%;
@@ -89,7 +91,7 @@ aside {
     background-color: #2589bd;
 }
 
-/* -------------------- */
+/* The benefits are in the Aside element, with 3 boxes which each have a head, paragraph and image. */
 
 .benefits {
     margin-bottom: 32px;
@@ -106,7 +108,7 @@ h3 {
     max-width: 150px;
 }
 
-/* ----------------------- */
+/* The Services are in the Section element, with 3 boxes which each have a head, paragraph and image. */
 
 .services {
     margin-bottom: 20px;
@@ -124,7 +126,7 @@ h3 {
     font-size: 36px;
 }
 
-/* ---------------- */
+/* Footer shows who owns the copyright. */
 
 footer {
     padding: 30px;
